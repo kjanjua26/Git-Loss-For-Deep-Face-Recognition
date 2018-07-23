@@ -2,6 +2,9 @@
 This repository contains code for the paper "Git Loss for Deep Face Recognition". 
 
 ## Usage
+Standard Gitloss methodology:
+<img src="results/push-pull-distance.pdf"/>
+
 Following dependencies are required for the code:
 
 <ol>
