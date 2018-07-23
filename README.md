@@ -19,9 +19,9 @@ To run the code: `python3 gitloss.py`
 ## Results 
 Following are the plots of Gitloss and Centerloss [1].
 ### Gitloss: 
-<img src="results/git-loss-lc001-lg01.png" height="100" width="100"/>
+<img src="results/git-loss-lc001-lg01.png" height="300" width="300"/>
 
 ### Centerloss: 
-<img src="results/center-loss-lc001-lg0.png" height="200" width="200"/>
+<img src="results/center-loss-lc001-lg0.png" height="400" width="400"/>
 
 ## Citation
