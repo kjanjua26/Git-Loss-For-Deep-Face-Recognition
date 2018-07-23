@@ -25,3 +25,6 @@ Following are the plots of Gitloss and Centerloss [1].
 <img src="results/center-loss-lc001-lg0.png" height="400" width="400"/>
 
 ## Citation
+
+## References
+[1] https://ydwen.github.io/papers/WenECCV16.pdf
