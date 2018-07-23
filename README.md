@@ -15,4 +15,12 @@ Following dependencies are required for the code:
 This code is for MNIST (mentioned in paper). For VGGFace2, you may use the code provided by <a href="https://github.com/davidsandberg/facenet">facenet</a>. Use the function `get_git_loss()` from the `gitloss.py` in facenet to use VGGFace2. 
 
 To run the code: `python3 gitloss.py`
+
+## Results 
+Following are the plots of Gitloss and Centerloss [1].
+### Gitloss: 
+<img src="results/git-loss-lc001-lg01.png"/>
+
+### Centerloss: 
+<img src="results/center-loss-lc001-lg0.png"/>
 ## Citation
