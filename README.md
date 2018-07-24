@@ -26,16 +26,14 @@ Following are the plots of Gitloss and Centerloss [1].
 
 ## Citation
 If you use the loss function described, please cite the paper. Please note that this is the preprint version, the published version will be out soon.
-`
-@ARTICLE{2018arXiv180708512C,
-   <br> author = {{Calefati}, A. and {Kamran Janjua}, M. and {Nawaz}, S. and {Gallo}, I.},
-   <br> title = "{Git Loss for Deep Face Recognition}",
- <br> journal = {ArXiv e-prints},
- <br>keywords = {Computer Science - Computer Vision and Pattern Recognition},
-    <br> year = 2018,
-  <br>  month = jul
-}
-`
+`@ARTICLE{2018arXiv180708512C,
+   author = {{Calefati}, A. and {Kamran Janjua}, M. and {Nawaz}, S. and {Gallo}, I.},
+   title = "{Git Loss for Deep Face Recognition}",
+   journal = {ArXiv e-prints},
+   keywords = {Computer Science - Computer Vision and Pattern Recognition},
+   year = 2018,
+   month = jul
+}`
 
 ## References
 [1] https://ydwen.github.io/papers/WenECCV16.pdf
