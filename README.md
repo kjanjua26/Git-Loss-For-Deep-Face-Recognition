@@ -26,8 +26,8 @@ Following are the plots of Gitloss and Centerloss [1].
 
 ## Citation
 If you use the loss function described, please cite the paper. Please note that this is the preprint version, the published version will be out soon.
-`@ARTICLE{2018arXiv180708512C,
-   author = {{Calefati}, A. and {Kamran Janjua}, M. and {Nawaz}, S. and {Gallo}, I.},
+`@ARTICLE{2018arXiv180708512C,\
+   author = {{Calefati}, A. and {Kamran Janjua}, M. and {Nawaz}, S. and {Gallo}, I.},\
    title = "{Git Loss for Deep Face Recognition}",
    journal = {ArXiv e-prints},
    keywords = {Computer Science - Computer Vision and Pattern Recognition},
