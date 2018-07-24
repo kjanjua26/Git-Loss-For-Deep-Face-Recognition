@@ -1,6 +1,6 @@
 # Git Loss For Deep Face Recognition
 This repository contains code for the paper "Git Loss for Deep Face Recognition". 
-The preprint of the paper can be found at: <a href="https://arxiv.org/pdf/1807.08512.pdf">HERE</a>
+</br>The preprint of the paper can be found at: <a href="https://arxiv.org/pdf/1807.08512.pdf">HERE</a>
 
 ## Usage
 Standard Gitloss methodology:
