@@ -38,6 +38,7 @@ for entry in data:
 
 print(len(idlist))
 print(len(namelist))
+assert len(idlist) == len(namelist)
 
 for i in tqdm(range(len(namelist))):
 	for j in ytflist:
