@@ -32,13 +32,16 @@ TODO
 If you use the loss function described, please cite the paper. Please note that this is the preprint version, the published version will be out soon.
 
 ```
-@article{2018arXiv180708512C,
-   author = {{Calefati}, A. and {Kamran Janjua}, M. and {Nawaz}, S. and {Gallo}, I.},
-   title = "{Git Loss for Deep Face Recognition}",
-  journal = {ArXiv e-prints},
-     year = 2018,
+@article{calefati2018git,
+  title={Git Loss for Deep Face Recognition},
+  author={Calefati, Alessandro and Janjua, Muhammad Kamran and Nawaz, Shah and Gallo, Ignazio},
+  journal={arXiv preprint arXiv:1807.08512},
+  year={2018}
 }
 ```
+
+## Contact
+If there is any problem with the code or if you may have any question, feel free to open an issue or reach out here: mjanjua.bscs16seecs@seecs.edu.pk
 
 ## References
 [1] https://ydwen.github.io/papers/WenECCV16.pdf
